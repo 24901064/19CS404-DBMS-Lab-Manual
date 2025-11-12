@@ -37,7 +37,7 @@ Explain:
 Why you chose the entities and relationships.
 How you modeled prerequisites or billing.
 ER Diagram Submission - Student Name
-Name : Mageshwaran T.A
+Name : BHARANI KUMAR S
 
 Reg No : 212224230035
 
