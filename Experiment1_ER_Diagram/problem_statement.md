@@ -39,7 +39,7 @@ How you modeled prerequisites or billing.
 ER Diagram Submission - Student Name
 Name : Mageshwaran T.A
 
-Reg No : 212224230146
+Reg No : 212224230035
 
 Scenario Chosen:
 
